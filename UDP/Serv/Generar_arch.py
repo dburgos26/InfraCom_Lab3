@@ -1,10 +1,10 @@
 import os
 
 # Tamaño máximo del archivo en bytes
-tamanio_maximo = 100 * 1024 * 1024
+tamanio_maximo = 250 * 1024 * 1024
 
 # Nombre del archivo y ruta
-ruta_archivo = 'textoPequeño1.txt'
+ruta_archivo = 'textoGrande1.txt'
 
 # Abrir archivo en modo de escritura
 with open(ruta_archivo, 'w') as archivo:
