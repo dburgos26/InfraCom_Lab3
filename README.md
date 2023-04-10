@@ -1,9 +1,9 @@
 # InfraCom_Lab3
 ## Sección 3 - Grupo 1
 
-Aqui estan las instrucciones generales para iniciar los diferentes servidores
+Aquí están las instrucciones generales para iniciar los diferentes servidores
 
-En los dos casos se tiene un archivo .zip donde estan los archivos de texto con los tamaños definidos 
+En los dos casos se tiene un archivo .zip donde están los archivos de texto con los tamaños definidos 
 
 ## Instrucciones del servidor TCP
 
@@ -15,3 +15,10 @@ En los dos casos se tiene un archivo .zip donde estan los archivos de texto con 
 
 
 ## Instrucciones del servidor UDP
+
+1. En la constante *HOST*, de los archivos *Serv UDP.py* y *cliente UDP.py*, colocar la dirección IP de la máquina en la que se ejecutará el servidor y revisar que en la variable *PORT* este el mismo puerto en los dos archivos
+2. En el servidor escriba el nombre del archivo que se desea enviar
+3. En la máquina virtual inicie el servidor desde consola ejecutando el archivo *Serv UDP.py* y abra el archivo *server.log* ya que en este aparecerá toda la información
+4. En la máquina local ejecute el archivo *cliente UDP.py*, escriba el número de clientes por consola y abra el archivo *client.log* ya que en este aparecerá toda la información
+5. Espere a que se envíen los archivos
+6. Cuando se termine la transferencia la consola del servidor no cambiara y se terminara la ejecución del cliente, todos los detalles estarán en los archivos *.log*
