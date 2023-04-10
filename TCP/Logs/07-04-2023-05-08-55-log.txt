@@ -1,0 +1,30 @@
+PRUEBA CON 5 CLIENTES
+
+Archivo enviado: BogotaCNPV2018.csv
+Datos transferidos: 250 MB
+
+----- CLIENTE 1
+Transferencia: EXITOSA
+Archivo transferido sin modificaciones: SI
+Tiempo de transferencia: 97.88478899997426 segundos
+
+----- CLIENTE 2
+Transferencia: EXITOSA
+Archivo transferido sin modificaciones: SI
+Tiempo de transferencia: 95.86183770000935 segundos
+
+----- CLIENTE 3
+Transferencia: EXITOSA
+Archivo transferido sin modificaciones: SI
+Tiempo de transferencia: 131.50052790000336 segundos
+
+----- CLIENTE 4
+Transferencia: EXITOSA
+Archivo transferido sin modificaciones: SI
+Tiempo de transferencia: 169.14183630002663 segundos
+
+----- CLIENTE 5
+Transferencia: EXITOSA
+Archivo transferido sin modificaciones: SI
+Tiempo de transferencia: 140.24552370002493 segundos
+
